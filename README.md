@@ -1,4 +1,4 @@
-# hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, i'am Muhammad Lutfi Zaini
+# hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, i'am Lutfi
 
 I am currently pursuing a bachelor's degree majoring in Information Systems, I study cool things like Software Development Life Cycle and others, I'm passionate about Linux/Distro, A person with Philocalist Nature & Altruism.
 
@@ -7,7 +7,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
 ## 🤙 Connect
 
 [![Twitter Badge](https://img.shields.io/badge/-@lutvzaini-black?style=flat-rounded&logo=twitter&logoColor=white&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-black?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-black?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224) -->
 
 ## ⚙️ Things I code with
 
