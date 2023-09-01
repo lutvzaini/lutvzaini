@@ -43,7 +43,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="PostCSS" src="https://img.shields.io/static/v1?logo=cssmodules&label=&message=css modules&color=000&logoColor=red&style=square" />
   </p>
   <p>
-      <img alt="Backend-as-a-Service (BaaS),CMS, Ecommerce" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Backend-as-a-Service (BaaS), CMS, Ecommerce :&color=fff&logoColor=fff&style=square" />
+      <img alt="BaaS,CMS, Ecommerce" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ BaaS, CMS, Ecommerce :&color=fff&logoColor=fff&style=square" />
       <img alt="Firebase" src="https://img.shields.io/static/v1?logo=firebase&label=&message=firebase&color=000&logoColor=&style=square" />
       <img alt="Supabase" src="https://img.shields.io/static/v1?logo=supabase&label=&message=supabase&color=000&logoColor=&style=square" />
       <img alt="Pocketbase" src="https://img.shields.io/static/v1?logo=pocketbase&label=&message=pocketbase&color=000&logoColor=&style=square" />
@@ -79,7 +79,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="Playwright" src="https://img.shields.io/static/v1?logo=playwright&label=&message=playwright&color=000&logoColor=&style=square" />
   </p>
    <p>
-      <img alt="Cloud Hosting/SaaS, CI/CD, Automation, VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting/SaaS, CI/CD, Automation, VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
+      <img alt="Cloud Hosting/SaaS, CI/CD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting/SaaS, CI/CD, Automation :&color=fff&logoColor=fff&style=square" />
       <img alt="AWS" src="https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=000&logoColor=&style=square" />
       <img alt="Azure" src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=azure&color=000&logoColor=&style=square" />
       <img alt="Github" src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=000&logoColor=&style=square" />
@@ -89,10 +89,13 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="Jenkins" src="https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=000&logoColor=&style=square" />
       <img alt="Octopus Deploy" src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=square&color=000&logo=octopusdeploy&logoColor" />
       <img alt="Ansible" src="https://img.shields.io/static/v1?logo=ansible&label=&message=ansible&color=000&logoColor=&style=square" />
-      <img alt="Terraform" src="https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=000&logoColor=purple&style=square" />
+      </p>
+      <p>
+      <img alt="VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
       <img alt="Docker" src="https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=000&logoColor=&style=square" />
+      <img alt="Terraform" src="https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=000&logoColor=purple&style=square" />
       <img alt="Kubernetes" src="https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=000&logoColor=&style=square" />
-      </p>custom
+      </p>
     <p>
       <img alt="OS, Software, Productivity" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ OS, Software, Productivity :&color=fff&logoColor=fff&style=square" />
       <img alt="Linux" src="https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=000&logoColor=fff&style=square" />
