@@ -78,9 +78,14 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="Vitest" src="https://img.shields.io/static/v1?logo=vitest&label=&message=vitest&color=000&logoColor=&style=square" />
       <img alt="Playwright" src="https://img.shields.io/static/v1?logo=playwright&label=&message=playwright&color=000&logoColor=&style=square" />
   </p>
-   Cloud Hosting, SaaS, CI CD, Automation
+      <p>
+      <img alt="VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
+      <img alt="Docker" src="https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=000&logoColor=&style=square" />
+      <img alt="Terraform" src="https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=000&logoColor=purple&style=square" />
+      <img alt="Kubernetes" src="https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=000&logoColor=&style=square" />
+    </p>
    <p>
-      <img alt="Cloud Hosting, SaaS, CI CD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting, SaaS, CI CD, Automation :&color=fff&logoColor=fff&style=square" />
+      <img alt="CloudHosting, SaaS, CICD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ CloudHosting, SaaS, CICD, Automation :&color=fff&logoColor=fff&style=square" />
       <img alt="AWS" src="https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=000&logoColor=&style=square" />
       <img alt="Azure" src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=azure&color=000&logoColor=&style=square" />
       <img alt="Github" src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=000&logoColor=&style=square" />
@@ -90,13 +95,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="Jenkins" src="https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=000&logoColor=&style=square" />
       <img alt="Octopus Deploy" src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=square&color=000&logo=octopusdeploy&logoColor" />
       <img alt="Ansible" src="https://img.shields.io/static/v1?logo=ansible&label=&message=ansible&color=000&logoColor=&style=square" />
-      </p>
-      <p>
-      <img alt="VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
-      <img alt="Docker" src="https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=000&logoColor=&style=square" />
-      <img alt="Terraform" src="https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=000&logoColor=purple&style=square" />
-      <img alt="Kubernetes" src="https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=000&logoColor=&style=square" />
-      </p>
+    </p>
     <p>
       <img alt="OS, Software, Productivity" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ OS, Software, Productivity :&color=fff&logoColor=fff&style=square" />
       <img alt="Linux" src="https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=000&logoColor=fff&style=square" />
