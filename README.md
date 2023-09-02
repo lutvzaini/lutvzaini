@@ -131,6 +131,6 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
   <img align="left" alt="lutvzaini Behance" width="20px" src="https://simpleicons.now.sh/behance/fff" />
 </a>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lutvzaini&count_private=true&show_icons=true&include_all_commits=true) -->
----
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lutvzaini.lutvzaini)
+## <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lutvzaini&count_private=true&show_icons=true&include_all_commits=true) -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lutvzaini.lutvzaini)
