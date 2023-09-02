@@ -80,7 +80,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
   </p>
    <p>
       <img alt="Cloud Hosting SaaS, CI CD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting SaaS, CI CD, Automation :&color=fff&logoColor=fff&style=square" />
-      <img alt="VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
+      <img alt="Cloud Hosting SaaS, CI CD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting, Saas, CI CD, Automation :&color=fff&logoColor=fff&style=square" />
       <img alt="AWS" src="https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=000&logoColor=&style=square" />
       <img alt="Azure" src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=azure&color=000&logoColor=&style=square" />
       <img alt="Github" src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=000&logoColor=&style=square" />
