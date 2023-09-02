@@ -80,6 +80,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
   </p>
    <p>
       <img alt="Cloud Hosting SaaS, CI CD, Automation" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting SaaS, CI CD, Automation :&color=fff&logoColor=fff&style=square" />
+      <img alt="VM, IaC, Orchestration" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ VM, IaC, Orchestration :&color=fff&logoColor=fff&style=square" />
       <img alt="AWS" src="https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=000&logoColor=&style=square" />
       <img alt="Azure" src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=azure&color=000&logoColor=&style=square" />
       <img alt="Github" src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=000&logoColor=&style=square" />
@@ -123,7 +124,7 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
 <a href="https://www.instagram.com/lutvzaini/">
   <img align="left" alt="lutvzaini Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
-<a href="https://linkedin.com/in/muhammadlutvzaini">
+<a href="https://linkedin.com/in/muhammadlutfizaini">
   <img align="left" alt="lutvzaini LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/fff" />
 </a>
 <a href="https://behance.net/lutvzaini">
@@ -131,8 +132,5 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
 </a>
 
 [![Twitter Badge](https://img.shields.io/badge/-@lutvzaini-black?style=flat-rounded&logo=x&logoColor=&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lutvzaini&count_private=true&show_icons=true&include_all_commits=true)
- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lutvzaini.lutvzaini)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lutvzaini.lutvzaini)
