@@ -78,8 +78,9 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
       <img alt="Vitest" src="https://img.shields.io/static/v1?logo=vitest&label=&message=vitest&color=000&logoColor=&style=square" />
       <img alt="Playwright" src="https://img.shields.io/static/v1?logo=playwright&label=&message=playwright&color=000&logoColor=&style=square" />
   </p>
+   SaaS, CI CD, Automation
    <p>
-      <img alt="Cloud Hosting" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ Cloud Hosting :&color=fff&logoColor=fff&style=square" />
+      <img alt="ssss" src="https://img.shields.io/static/v1?logo=&label=&message=⚡️ ssss :&color=fff&logoColor=fff&style=square" />
       <img alt="AWS" src="https://img.shields.io/static/v1?logo=amazon-aws&label=&message=aws&color=000&logoColor=&style=square" />
       <img alt="Azure" src="https://img.shields.io/static/v1?logo=microsoftazure&label=&message=azure&color=000&logoColor=&style=square" />
       <img alt="Github" src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=000&logoColor=&style=square" />
@@ -130,6 +131,6 @@ I am currently pursuing a bachelor's degree majoring in Information Systems, I s
   <img align="left" alt="lutvzaini Behance" width="20px" src="https://simpleicons.now.sh/behance/fff" />
 </a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@lutvzaini-black?style=flat-rounded&logo=x&logoColor=&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lutvzaini&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lutvzaini&count_private=true&show_icons=true&include_all_commits=true) -->
+---
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lutvzaini.lutvzaini)
